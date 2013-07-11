@@ -484,6 +484,7 @@
 				88F53550178D2D03009329FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		88F53551178D2D03009329FD /* Build configuration list for PBXNativeTarget "Spiral ArmsTests" */ = {
 			isa = XCConfigurationList;
@@ -492,6 +493,7 @@
 				88F53553178D2D03009329FD /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
